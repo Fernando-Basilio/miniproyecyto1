@@ -24,3 +24,4 @@ Requisitos para el funcionamiento del programa:
 -OpenCV
 -MediaPipe
 
+Link a Video Explicativo: https://drive.google.com/drive/folders/1y1WDFNA051QKdihN9NcxhkVd3mrQEzFH?usp=sharing
